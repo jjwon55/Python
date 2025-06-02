@@ -1,0 +1,27 @@
+[
+  {
+    "name": "고건우",
+    "gender": "male",
+    "age": 18
+  },
+  {
+    "name": "윤홍민",
+    "gender": "male",
+    "age": 17
+  },
+  {
+    "name": "이준영",
+    "gender": "male",
+    "age": 18
+  },
+  {
+    "name": "한지용",
+    "gender": "male",
+    "age": 17
+  },
+  {
+    "name": "김조은",
+    "gender": "female",
+    "age": 18
+  }
+]
